@@ -1,0 +1,14 @@
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\bin\Debug\net8.0-windows\ShadowBoard.exe
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\bin\Debug\net8.0-windows\ShadowBoard.deps.json
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\bin\Debug\net8.0-windows\ShadowBoard.runtimeconfig.json
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\bin\Debug\net8.0-windows\ShadowBoard.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\bin\Debug\net8.0-windows\ShadowBoard.pdb
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.AssemblyInfoInputs.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.AssemblyInfo.cs
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\refint\ShadowBoard.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.pdb
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.genruntimeconfig.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ref\ShadowBoard.dll

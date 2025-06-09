@@ -1,0 +1,4 @@
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0\ShadowBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0\ShadowBoard.AssemblyInfoInputs.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0\ShadowBoard.AssemblyInfo.cs
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0\ShadowBoard.csproj.CoreCompileInputs.cache

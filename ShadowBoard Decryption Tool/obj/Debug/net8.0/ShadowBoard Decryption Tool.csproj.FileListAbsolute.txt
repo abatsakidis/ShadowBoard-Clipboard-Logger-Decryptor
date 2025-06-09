@@ -1,0 +1,14 @@
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\bin\Debug\net8.0\ShadowBoard Decryption Tool.exe
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\bin\Debug\net8.0\ShadowBoard Decryption Tool.deps.json
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\bin\Debug\net8.0\ShadowBoard Decryption Tool.runtimeconfig.json
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\bin\Debug\net8.0\ShadowBoard Decryption Tool.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\bin\Debug\net8.0\ShadowBoard Decryption Tool.pdb
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.AssemblyInfoInputs.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.AssemblyInfo.cs
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\refint\ShadowBoard Decryption Tool.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.pdb
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ShadowBoard Decryption Tool.genruntimeconfig.cache
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard Decryption Tool\obj\Debug\net8.0\ref\ShadowBoard Decryption Tool.dll
