@@ -204,10 +204,30 @@ class Program
         }
     }
 
+    static void RemoveFromStartup()
+    {
+        string name = "WindowsClipboardService";
+        try
+        {
+            using (RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true))
+            {
+                if (rk.GetValue(name) != null)
+                {
+                    rk.DeleteValue(name);
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            string errorPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "clipboard_error.txt");
+            File.AppendAllText(errorPath, $"[{DateTime.Now}] Failed to remove startup registry key: {ex.Message}\n");
+        }
+    }
+
     static void WatchForKillSwitch()
     {
         string logPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "clipboard_log.txt");
-       // File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch thread started.\n");
+      //  File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch thread started.\n");
 
         while (running)
         {
@@ -217,7 +237,8 @@ class Program
                 {
                     if (!string.IsNullOrEmpty(proc.MainWindowTitle) && proc.MainWindowTitle.Contains("!exit"))
                     {
-                       // File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch detected. Exiting.\n");
+                      //  File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch detected. Exiting.\n");
+                        RemoveFromStartup();
                         running = false;
                         Environment.Exit(0);
                     }
@@ -226,12 +247,12 @@ class Program
             catch (Exception ex)
             {
                 string errorPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "clipboard_error.txt");
-              //  File.AppendAllText(errorPath, $"[{DateTime.Now}] KillSwitch watch error: {ex.Message}\n");
+               // File.AppendAllText(errorPath, $"[{DateTime.Now}] KillSwitch watch error: {ex.Message}\n");
             }
 
             Thread.Sleep(3000);
         }
 
-       // File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch thread stopped.\n");
+        //File.AppendAllText(logPath, $"[{DateTime.Now}] KillSwitch thread stopped.\n");
     }
 }

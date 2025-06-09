@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShadowBoard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a7cbd8de7ea1d8e0ef6e687de329de0720c4d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShadowBoard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShadowBoard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

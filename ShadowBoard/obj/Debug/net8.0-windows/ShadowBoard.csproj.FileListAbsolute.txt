@@ -12,3 +12,4 @@ C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\re
 C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.pdb
 C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.genruntimeconfig.cache
 C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ref\ShadowBoard.dll
+C:\Users\mantis\source\repos\ShadowBoard\ShadowBoard\obj\Debug\net8.0-windows\ShadowBoard.sourcelink.json
