@@ -1,5 +1,7 @@
 # ShadowBoard Clipboard Logger & Decryptor
 
+![.NET Build](https://github.com/abatsakidis/ShadowBoard-Clipboard-Logger-Decryptor/actions/workflows/dotnet.yml/badge.svg)
+
 This program monitors the system clipboard for sensitive information such as passwords, tokens, API keys, and other patterns. It encrypts detected data using AES encryption and stores it securely in a local log file. A complementary decryptor tool allows authorized users to decrypt and review the logged data. Designed for security auditing and educational purposes.
 
 ## Overview
